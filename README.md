@@ -3,7 +3,7 @@
 This is a dapp where the user can create, start, and end a lottery with the declaration of a winner.
 
 ### Steps
-1. User can entry lottery with ETH based on a USD fee
+1. User can enter lottery with ETH based on a USD fee
 2. An admin will choose when the lottery ends
 3. The lottery will select a random winner
 
